@@ -1,4 +1,3 @@
-<h3>This text is from index html</h3>
     
 <h3>WEBPACK, BABEL, ES6 SETUP</h3>
 <p>Setup ready to be cloned and used as a started pack</p>
